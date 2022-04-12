@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of this app is for students who are considering taking a specific course to see the performance of previous students in that course as average gpa and proportion of A's. Students can select a course based on the subject, course level and professor. This app can help students to choose courses that they are more likely to do well in. It can also help students avoid taking course with professors whose students perform worse historically. If a course has multiple professors, students can use the app to choose which professor has the best performing students.
+The purpose of this app is for students who are considering taking a specific course to visualize the performance of previous students in that course via average gpa and proportion of A's. Students can select a course based on the subject, course level and professor. This app can help students to choose courses that they are more likely to do well in. It can also help students avoid taking course with professors whose students perform worse historically. If a course has multiple professors, students can use the app to find which professor has the best performing students.
 
 ## Data
 
